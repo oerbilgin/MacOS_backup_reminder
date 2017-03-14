@@ -2,7 +2,7 @@
 ## A small python script that looks to see when the last time a Time Machine backup was made, and if it was too long ago, pings a reminder
 * I have only tested this on MacOS Sierra 10.12.3
 
-![example alert](https://github.com/oerbilgin/MacOS_backup_reminder/example_alert.png)
+![example alert](https://github.com/oerbilgin/MacOS_backup_reminder/blob/master/example_alert.png)
 
 ## Installation
 1. Install Python 2.7
